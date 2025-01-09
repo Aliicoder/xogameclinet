@@ -7,7 +7,7 @@ const Menu = () => {
   return ( 
   <Grid className="w-[100vw] h-[100vh] text-white bg-black ">
     <FlexCol className="place-self-center">
-      <div>1.0.8</div>
+      <div>1.0.9</div>
       <div>
         <img src={logo} alt="" />
       </div>
